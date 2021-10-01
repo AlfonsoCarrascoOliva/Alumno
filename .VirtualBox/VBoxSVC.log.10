@@ -1,0 +1,118 @@
+00:00:00.001561 main     VirtualBox COM Server 6.1.18 r142142 win.amd64 (Jan  7 2021 15:32:19) release log
+00:00:00.001564 main     Log opened 2021-09-21T10:57:42.919422600Z
+00:00:00.001564 main     Build Type: release
+00:00:00.001567 main     OS Product: Windows 10
+00:00:00.001568 main     OS Release: 10.0.19042
+00:00:00.001569 main     OS Service Pack: 
+00:00:00.037695 main     DMI Product Name: H410M H
+00:00:00.044053 main     DMI Product Version: Default string
+00:00:00.044061 main     Firmware type: UEFI
+00:00:00.044201 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.044212 main     Host RAM: 16246MB (15.8GB) total, 11743MB (11.4GB) available
+00:00:00.044215 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.044216 main     Process ID: 9688
+00:00:00.044216 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.077033          VirtualBox: object creation starts
+00:00:00.077151          Home directory: 'C:\Users\Alumno\.VirtualBox'
+00:00:00.077223          Installed Drivers:
+00:00:00.080569            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.18.42142)
+00:00:00.080913            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.18.42142)
+00:00:00.081113            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.18.42142)
+00:00:00.082553          Loading settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.083626          usbLibGetDevices: Starting USB device enumeration
+00:00:00.092788          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.150352          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.153949          HostDnsMonitor: initializing
+00:00:00.157233          HostDnsMonitor: updating information
+00:00:00.157252          HostDnsMonitor: old information
+00:00:00.157253            no server entries
+00:00:00.157253            no domain set
+00:00:00.157254            no search string entries
+00:00:00.157254          HostDnsMonitor: new information
+00:00:00.157254            server 1: 8.8.8.8
+00:00:00.157255            server 2: 8.8.4.4
+00:00:00.157255            no domain set
+00:00:00.157256            no search string entries
+00:00:00.247367          VD: VDInit finished with VINF_SUCCESS
+00:00:00.248142          Loading settings file "C:\Users\Alumno\VirtualBox VMs\windows server 2019\windows server 2019.vbox" with version "1.15-windows"
+00:00:00.259453          OCI: Local config file 'C:\Users\Alumno\.VirtualBox\oci_config' does not exist
+00:00:00.259510          OCI: Original config file 'C:\Users\Alumno\.oci\config' does not exist
+00:00:00.259511          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.259517          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.259535          VirtualBox: object created
+00:00:30.159838 createBase Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:30.685796          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:00:30.687561          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:00:30.689466          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:30.693153          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:30.695164          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:00:33.679236          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:00:33.694496          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:00:47.990748          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:00:51.941715          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:00:51.957273          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:02:53.801214          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:59.956395          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:00.024392          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:03:00.092210          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:03:07.337130          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:03:07.352748          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:03:26.604112 createBase Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:27.124082          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:03:27.125887          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:03:27.127634          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:27.130694          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:27.134206          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:03:30.076568          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:03:30.091805          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:03:45.627518          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:48.372141          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:48.386084          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:03:48.388244          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:03:51.949532          Launched VM: 74836896 pid: 2160 (0x870) frontend: GUI/Qt name: ubuntu server
+00:03:55.976742          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:03:56.178635          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:56.294734          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:04:06.346157          Launched VM: 74553600 pid: 7656 (0x1de8) frontend: GUI/Qt name: ubuntu cliente
+00:04:10.431916          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:04:10.633318          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:04:10.791044          netIfIsWireless: CreateFile on '\\.\{EFAA6208-5897-4A85-9FF7-8614538FB49B}' failed with rcWin=2 (0x2) - ignoring
+00:06:33.427372 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:33.435459 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:15:24.718025          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+00:17:29.286846          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:22:43.335956          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:22:44.254957          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:23:05.453371          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:23:07.017165          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:23:25.171274          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:25.173556          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:25.258280          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+00:23:25.784896          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+01:03:00.719475 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:03:00.727165 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&17da066&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 18
+01:03:00.727347 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+01:03:05.274261 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:03:05.282644 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:04:12.216297 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:04:12.225377 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+01:21:00.660653          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+01:21:00.721808          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+01:21:01.285501          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vbox" with version "1.16-windows"
+01:21:04.830566          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+01:21:04.851676          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+01:21:05.421571          Saving settings file "C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vbox" with version "1.16-windows"
+01:21:08.925263          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:21:08.969783          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:21:08.972485          Saving settings file "C:\Users\Alumno\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:21:14.179835 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:21:14.187634 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&17da066&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 18
+01:21:14.187762 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+01:21:14.480622 main     VirtualBox: object deletion starts
+01:21:14.480706 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Alumno\VirtualBox VMs\windows server 2019\windows server 2019.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:21:14.481068 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Alumno\VirtualBox VMs\ubuntu server\ubuntu server.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:21:14.481326 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Alumno\VirtualBox VMs\ubuntu cliente\ubuntu cliente.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:21:14.481933 main     HostDnsMonitor: shutting down ...
+01:21:14.482008 main     HostDnsMonitor: shut down
+01:21:14.483508 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:21:14.483659 main     VirtualBox: object deleted
